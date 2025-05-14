@@ -1,0 +1,14 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://oksoar57w343"]
+
+[ext_resource type="Script" uid="uid://cfpn7x4s6fqxm" path="res://Scripts/Combat_Action.gd" id="1_eej76"]
+
+[resource]
+script = ExtResource("1_eej76")
+display_name = "Punch"
+description = "A quick Basic Melee attack"
+Duration = 1
+Range_amt = 1
+damage = 3
+heal_amt = 0
+movement = 0
+metadata/_custom_type_script = "uid://cfpn7x4s6fqxm"
